@@ -1,0 +1,56 @@
+
+.expli{
+    width: 50vw;
+    height: 50vh;
+    background: hsla(194 100% 69% / 1);    
+    position: relative;
+    left: 95px;
+    top: 120px;
+    display: flex;
+    border-radius: 12px;
+    box-shadow: 0px 10px 40px #00000056;   
+
+}
+
+.robru{
+ width: auto;
+ height: 18vh;
+background: hsla(217 100% 56% / 1);
+border-radius: 0px 0px 60px 60px;
+position: relative;
+display: flex;
+
+}
+.botao{
+    position: relative;
+    top: 100px;
+    right: 60px;
+}
+.titulinho{
+    color: white;
+    text-decoration: none;
+    transition: 0.3s;
+    position: relative;
+    left: 140px;
+    top: 60px;
+    font-size: 24px;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    display: flex;
+}
+.titulinho:hover{
+    opacity: 0.7;
+}
+.explica{
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    display: flex;
+    position: relative;
+    left: 2px;
+    top: 90px;
+}
+
+
